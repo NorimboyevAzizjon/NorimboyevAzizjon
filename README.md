@@ -48,7 +48,6 @@
   
   ![Eng ko'p ishlatilgan tillar](https://github-readme-stats.vercel.app/api/top-langs/?username=NorimboyevAzizjon&layout=compact&theme=radical&hide_title=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NorimboyevAzizjon&theme=radical&hide_border=true)
 
 </div>
 
