@@ -7,3 +7,11 @@ Welcome to my GitHub profile!
 📫 **How to reach me:** norimboyevazizjon29@gmail.com  
 😄 **Pronouns:** He/Him  
 ⚡ **Fun fact:** I love coding while listening to music!
+
+---
+
+## 📊 GitHub Stats
+
+![Azizjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotimboyevAzizjon&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NotimboyevAzizjon&layout=compact&theme=radical)
