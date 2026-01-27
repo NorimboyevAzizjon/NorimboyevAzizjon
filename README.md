@@ -1,9 +1,9 @@
-# Salom, men Azizjon 👨‍💻
+# Hi, I'm Azizjon 👨‍💻
 
-Mening GitHub profilimga xush kelibsiz!  
+Welcome to my GitHub profile!  
 
-🔭 **Hozirda ishlayapman:** KunTartib (Kundalik vazifalarni boshqarish dasturi)  
-🌱 **Hozirda o'rganyapman:** JavaScript va Python  
-📫 **Bog'lanish uchun:** norimboyevazizjon29@gmail.com  
-😄 **O'zim haqimda:** U/Him (Erkak)  
-⚡ **Qiziqarli fakt:** Men musiqani eshitib kod yozishni yaxshi ko'raman!
+🔭 **I'm currently working on:** KunTartib (Daily task management app)  
+🌱 **I'm currently learning:** JavaScript and Python  
+📫 **How to reach me:** norimboyevazizjon29@gmail.com  
+😄 **Pronouns:** He/Him  
+⚡ **Fun fact:** I love coding while listening to music!
