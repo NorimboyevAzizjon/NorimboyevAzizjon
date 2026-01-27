@@ -1,14 +1,10 @@
 # 👨‍💻 Azizjon Norimboyev  
-**Frontend Dasturchi** | **Chiroyli va zamonaviy veb-ilovalar yarataman**
-
-🎯 Foydalanuvchilarga qulay, tezkor va zamonaviy veb-ilovalar yaratishga ishtiyoqmandman.
-
----
+**Frontend Dasturchi**
 
 ## 🚀 Men haqimda
 
 🔭 **Hozirda ishlayapman:** KunTartib - Kundalik vazifalarni boshqarish dasturi  
-🌱 **Hozirda o'rganyapman:** JavaScript, React va zamonaviy frontend texnologiyalar  
+🌱 **Hozirda o'rganyapman:** JavaScript va Python  
 💡 **Qiziqishlarim:** UI/UX dizayn, veb-sayt tezligi, zamonaviy CSS  
 🎧 **Qiziqarli fakt:** Musiqani tinglab kod yozishni yaxshi ko'raman!
 
@@ -47,7 +43,6 @@
   ![Azizjon GitHub Statistikasi](https://github-readme-stats.vercel.app/api?username=NorimboyevAzizjon&show_icons=true&theme=radical&hide_title=true)
   
   ![Eng ko'p ishlatilgan tillar](https://github-readme-stats.vercel.app/api/top-langs/?username=NorimboyevAzizjon&layout=compact&theme=radical&hide_title=true)
-  
 
 </div>
 
@@ -58,9 +53,6 @@
 <p align="left">
   <a href="mailto:norimboyevazizjon29@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/NorimboyevAzizjon">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
