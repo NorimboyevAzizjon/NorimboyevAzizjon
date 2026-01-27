@@ -12,6 +12,6 @@ Welcome to my GitHub profile!
 
 ## 📊 GitHub Stats
 
-![Azizjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotimboyevAzizjon&show_icons=true&theme=radical)
+![Azizjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=NorimboyevAzizjon&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NotimboyevAzizjon&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NorimboyevAzizjon&layout=compact&theme=radical)
