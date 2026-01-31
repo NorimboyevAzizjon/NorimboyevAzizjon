@@ -39,12 +39,13 @@
 ## 📊 GitHub Statistikalarim
 
 <div align="center">
-  
-  ![Azizjon GitHub Statistikasi](https://github-readme-stats.vercel.app/api?username=NorimboyevAzizjon&show_icons=true&theme=radical&hide_title=true)
-  
-  ![Eng ko'p ishlatilgan tillar](https://github-readme-stats.vercel.app/api/top-langs/?username=NorimboyevAzizjon&layout=compact&theme=radical&hide_title=true)
+
+![Azizjon GitHub Stats](https://github-readme-stats.vercel.app/api?username=NorimboyevAzizjon&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NorimboyevAzizjon&layout=compact&theme=radical)
 
 </div>
+
 
 ---
 
