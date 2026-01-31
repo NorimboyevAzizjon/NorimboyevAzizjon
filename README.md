@@ -40,11 +40,12 @@
 
 <div align="center">
 
-![Azizjon GitHub Stats](https://github-readme-stats.vercel.app/api?username=NorimboyevAzizjon&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NorimboyevAzizjon&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NorimboyevAzizjon&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NorimboyevAzizjon&layout=compact&theme=radical&hide_border=true)
 
 </div>
+
 
 
 ---
