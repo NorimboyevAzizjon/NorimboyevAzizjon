@@ -1,14 +1,16 @@
 # 👨‍💻 Azizjon Norimboyev  
-**Frontend Dasturchi**
+**Frontend Developer**
 
-## 🚀 Men haqimda
+## 🚀 About Me
 
-🔭 **Hozirda ishlayapman:** KunTartib - Kundalik vazifalarni boshqarish dasturi  
-🌱 **Hozirda o'rganyapman:** Python  
-💡 **Qiziqishlarim:** UI/UX dizayn, veb-sayt tezligi, zamonaviy CSS  
-🎧 **Qiziqarli fakt:** Musiqani tinglab kod yozishni yaxshi ko'raman!
+🔭 **Currently working on:** KunTartib – A daily task management application  
+🌱 **Currently learning:** Python  
+💡 **Interests:** UI/UX design, website performance optimization, and modern CSS  
+🎧 **Fun fact:** I enjoy listening to music while coding!
 
 ---
+
+## 🛠️ Technologies
 
 <p align="center">
 
@@ -37,21 +39,18 @@
 
 </p>
 
-
 ---
 
-## 📊 GitHub Statistikalarim
+## 📊 GitHub Statistics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NorimboyevAzizjon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NorimboyevAzizjon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
 
-
-
 ---
 
-## 🌐 Bog'lanish
+## 🌐 Connect With Me
 
 <p align="left">
   <a href="mailto:norimboyevazizjon29@gmail.com">
@@ -79,4 +78,4 @@
 
 ---
 
-⭐ *"Yaxshi kod - o'zining eng yaxshi hujjatidir." - Steve McConnell*
+⭐ *"Good code is its own best documentation." – Steve McConnell*
