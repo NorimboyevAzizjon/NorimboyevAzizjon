@@ -4,7 +4,7 @@
 ## 🚀 Men haqimda
 
 🔭 **Hozirda ishlayapman:** KunTartib - Kundalik vazifalarni boshqarish dasturi  
-🌱 **Hozirda o'rganyapman:** JavaScript va Python  
+🌱 **Hozirda o'rganyapman:** Python  
 💡 **Qiziqishlarim:** UI/UX dizayn, veb-sayt tezligi, zamonaviy CSS  
 🎧 **Qiziqarli fakt:** Musiqani tinglab kod yozishni yaxshi ko'raman!
 
