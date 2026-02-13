@@ -37,18 +37,16 @@
 ---
 
 ## 📊 GitHub Statistikalarim
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NorimboyevAzizjon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NorimboyevAzizjon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
 
-<div align="center">
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=NorimboyevAzizjon&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NorimboyevAzizjon&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NorimboyevAzizjon&layout=compact&theme=tokyonight)
-
-</div>
 
 ---
 
