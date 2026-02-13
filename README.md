@@ -43,9 +43,6 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NorimboyevAzizjon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
 
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=NorimboyevAzizjon&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
 
 
 ---
